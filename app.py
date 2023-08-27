@@ -2,7 +2,6 @@ import PySimpleGUI as sg
 import pandas as pd
 import numpy as np
 from rank_bm25 import BM25Okapi
-from fuzzywuzzy import process
 import pymorphy2
 import string
 
